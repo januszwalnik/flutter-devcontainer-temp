@@ -10,7 +10,7 @@ RUN apt update && apt install -y curl git unzip xz-utils zip libglu1-mesa openjd
 # Set up new user
 RUN useradd -ms /bin/bash developer
 USER developer
-RUN	mkdir /home/developer
+WORKDIR /home/developer
 
 # Prepare Android directories and system variables
 RUN mkdir -p Android/sdk
