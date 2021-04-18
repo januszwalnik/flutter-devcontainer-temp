@@ -8,7 +8,7 @@
 			"name": "Flutter for web",
 			"type": "dart",
 			"request": "launch",
-			"program": "/home/developer/client/shophelper/lib/main.dart",
+			"program": "/home/developer/client/src/lib/main.dart",
 			"args": [
 				// "--record-to",
 				// "bugreport",
