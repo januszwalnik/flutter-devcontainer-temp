@@ -10,5 +10,5 @@
 
 ### 3) Problems with the running flutter
 	-	Debug problems: When you see the white screen on the chrome:
-		-	Make sure that the extension [a relative link](https://chrome.google.com/webstore/detail/dart-debug-extension/eljbmlghnomdjgdjmbdekegdkbabckhm) is installed
+		-	Make sure that the [extension](https://chrome.google.com/webstore/detail/dart-debug-extension/eljbmlghnomdjgdjmbdekegdkbabckhm) is installed
 	
