@@ -10,10 +10,8 @@
 			"request": "launch",
 			"program": "/home/developer/client/src/lib/main.dart",
 			"args": [
-				// "--record-to",
-				// "bugreport",
-				// "--verbose",
-				// "--trace-startup",
+				"--verbose",
+				"--trace-startup",
 				"-d",
 				"web-server"
 			]
