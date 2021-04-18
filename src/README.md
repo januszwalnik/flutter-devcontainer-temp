@@ -1,4 +1,4 @@
-# shophelper
+# Flutter devcontainer template
 
 A new Flutter project.
 
